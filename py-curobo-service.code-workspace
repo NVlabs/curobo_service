@@ -1,0 +1,42 @@
+{
+  "folders": [
+    {
+      "name": "curobo_service",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "cSpell.words": [
+      "abstractclassmethod",
+      "abstractstaticmethod",
+      "anybadge",
+      "autosummary",
+      "classmethod",
+      "copybutton",
+      "currentmodule",
+      "docstrings",
+      "filestack",
+      "firstparty",
+      "graphviz",
+      "ipdb",
+      "ipykernel",
+      "localfolder",
+      "moduleauthor",
+      "mypy",
+      "nbclient",
+      "nbconvert",
+      "nbformat",
+      "norecursedirs",
+      "pyproject",
+      "setuptools",
+      "sourcedir",
+      "staticmethod",
+      "stdlib",
+      "testcode",
+      "thirdparty",
+      "versionadded",
+      "versionchanged",
+      "xacro"
+    ]
+  }
+}
